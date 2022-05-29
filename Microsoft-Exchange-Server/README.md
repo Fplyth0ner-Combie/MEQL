@@ -1,4 +1,7 @@
-# Possible-Exploiting-Vulnerabilities-Or-Reuse-Of-Webshell.meql
+# APPLY
+Investigate actors doing bad things on Exchange servers.
+
+# Microsoft-Exchange-Server/Possible-Exploiting-Vulnerabilities-Or-Reuse-Of-Webshell.meql
 If you want to investigate traces of Exchange 0day exploits that were made public in 2021, it will meet your requirements. \
 And, it is also suitable for other discovery that depends on the writing of script files in Exchange server or IIS environment. \
 If there's a windfall, it could be an exploit that hasn't been disclosed yet. \
