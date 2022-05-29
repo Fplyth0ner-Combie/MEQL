@@ -1,5 +1,5 @@
 # MEQL
-MultiEye EDR Expression Query Language
+MultiEye Expression Query Language
 
 # What is it
 The project contains constantly updated examples of threat hunting queries for MultiEye EDR, and it also includes a complete language grammar manual (which is constantly being updated).
