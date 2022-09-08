@@ -1,0 +1,1 @@
+EventType IN ("File Data Modification", "File Data Write") AND FilePath Contains "Mup" AND ProcessImageExt IN ("php", "jsp", "asp", "aspx", "exe", "dll", "ps1")
