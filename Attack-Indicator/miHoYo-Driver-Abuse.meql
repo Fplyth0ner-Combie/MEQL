@@ -1,0 +1,1 @@
+EventType = "NewServiceInstall" AND ServiceName = "mhyprot2" OR EventType IN ("File Data Write", "File Data Modification") AND (FileMd5 = "4b817d0e7714b9d43db43ae4a22a161e" OR FileName = "mhyprot2.sys")
