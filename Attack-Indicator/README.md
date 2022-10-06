@@ -1,7 +1,7 @@
 # APPLY
 Investigate potential attack indicators in the enterprise environment
 
-# miHoYo-Driver-Abuse.meql
+# Attack-Indicator/miHoYo-Driver-Abuse.meql
 Look for potential abuse of the miHoYo mhyprot2.sys driver, \
 which is supposed to be used as an anti-cheat feature in the miHoYo's game, \
 but it has been proven that it can be exploited for potentially malicious behavior. \
