@@ -1,0 +1,1 @@
+EventType IN ("File Data Write", "File Data Modification") AND (FileMd5 = "9bac4c415c1ceebeb19039f097723860" OR (FileName Conatins "procexp" AND FileExt = "sys"))
