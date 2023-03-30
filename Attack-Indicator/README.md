@@ -28,4 +28,4 @@ https://www.rapid7.com/blog/post/2021/12/13/driver-based-attacks-past-and-presen
 Reference: \
 https://www.crowdstrike.com/blog/crowdstrike-detects-and-prevents-active-intrusion-campaign-targeting-3cxdesktopapp-customers/ \
 https://www.trendmicro.com/en_us/research/23/c/information-on-attacks-involving-3cx-desktop-app.html \
-https://www.reddit.com/r/crowdstrike/comments/125r3uu/20230329_situational_awareness_crowdstrike/ \
+https://www.reddit.com/r/crowdstrike/comments/125r3uu/20230329_situational_awareness_crowdstrike/
