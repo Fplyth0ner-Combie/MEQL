@@ -1,5 +1,0 @@
-# Potential impact
-EventType = "Process Creation" AND ProcessPath Contains "3CXDesktopApp" OR EventType Contains "File" AND FilePath Contains "3CXDesktopApp"
-
-# High confidence
-EventType = "DnsQuery" AND QueryName IN Contains ("akamaicontainer.com", "akamaitechcloudservices.com", "azuredeploystore.com", "azureonlinecloud.com", "azureonlinestorage.com", "dunamistrd.com", "glcloudservice.com", "journalide.org", "msedgepackageinfo.com", "msstorageazure.com", "msstorageboxes.com", "officeaddons.com", "officestoragebox.com", "pbxcloudeservices.com", "pbxphonenetwork.com", "pbxsources.com", "qwepoi123098.com", "sbmsa.wiki", "sourceslabs.com", "visualstudiofactory.com", "zacharryblogs.com")
