@@ -22,3 +22,10 @@ Reference: \
 https://labs.jumpsec.com/a-defenders-guide-for-rootkit-detection-episode-1-kernel-drivers/ \
 https://forum.eset.com/topic/31580-process-explorer-detected/ \
 https://www.rapid7.com/blog/post/2021/12/13/driver-based-attacks-past-and-present/
+
+# Attack-Indicator/Supply-Chain-Poisoning-From-3CXDesktopApp.meql
+**`Urgent`** Investigate the impact of 3CXDesktopApp supply chain poisoning and determine if you was targeted. \
+Reference: \
+https://www.crowdstrike.com/blog/crowdstrike-detects-and-prevents-active-intrusion-campaign-targeting-3cxdesktopapp-customers/ \
+https://www.trendmicro.com/en_us/research/23/c/information-on-attacks-involving-3cx-desktop-app.html \
+https://www.reddit.com/r/crowdstrike/comments/125r3uu/20230329_situational_awareness_crowdstrike/ \
